@@ -1,0 +1,1 @@
+CursorGate multi-page static website. Upload all files and the assets folder to your GitHub Pages repository. Open index.html for the homepage.
