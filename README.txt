@@ -1,7 +1,7 @@
 CursorGate website — updated
 
 Changes made:
-- Replaced every occurrence of support@b2bprospects.io with info@b2bprospects.io.
+- Replaced every occurrence of info@b2bprospects.io with info@b2bprospects.io.
 - Replaced the broken/cropped header logo with a cleaned horizontal CursorGate logo.
 - Adjusted header logo sizing so it sits cleanly in the navigation bar across all pages.
 - Added logo-options.html with three logo directions:
